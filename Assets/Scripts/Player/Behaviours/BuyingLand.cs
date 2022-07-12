@@ -23,13 +23,17 @@ public class BuyingLand : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && data.moneyController.money >= 50 && data.canClick && data.mode == 1)
         {
             pos = data.land.WorldToCell(data.mousePos);
-            data.message.CreateQuestion("Are you sure you want to buy this piece of land for 50 coins?",
-                () =>
-                {
-                    data.land.SetTile(pos, data.landTile);
-                    data.AddOwnedLandPositions(pos);
-                    data.moneyController.money -= 50;
-                });
+            if (!data.land.HasTile(pos))
+            {
+
+                data.message.CreateQuestion("Are you sure you want to buy this piece of land for 50 coins?",
+                    () =>
+                    {
+                        data.land.SetTile(pos, data.landTile);
+                        data.AddOwnedLandPositions(pos);
+                        data.moneyController.money -= 50;
+                    });
+            }
         }
     }
 }
