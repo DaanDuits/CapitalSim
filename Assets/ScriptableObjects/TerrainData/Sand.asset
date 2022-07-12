@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bedaeff30bd64649a107a3e3d069310, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: c70f96b502df22d4db48ce09e9dd70a3, type: 2}
+  heightValue: {x: 0.47, y: 0.53}
+  biomeValue: {x: 0, y: 1}

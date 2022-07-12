@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: c99bddc2d1f8c004c9e4d87026d401c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7138031933614853240
+    second: OwnedLandSpriteSheet_0
+  - first:
+      213: 1385475612953598512
+    second: OwnedLandSpriteSheet_1
+  - first:
+      213: 18985713047285242
+    second: OwnedLandSpriteSheet_2
+  - first:
+      213: -5955949967929544300
+    second: OwnedLandSpriteSheet_3
+  - first:
+      213: 2876079209391634197
+    second: OwnedLandSpriteSheet_4
+  - first:
+      213: 517642139257665726
+    second: OwnedLandSpriteSheet_5
+  - first:
+      213: 3002906321466603949
+    second: OwnedLandSpriteSheet_6
+  - first:
+      213: -2647489417215035865
+    second: OwnedLandSpriteSheet_7
+  - first:
+      213: -6844444793444947923
+    second: OwnedLandSpriteSheet_8
+  - first:
+      213: 1093412590385488965
+    second: OwnedLandSpriteSheet_9
+  - first:
+      213: 4079258876360655330
+    second: OwnedLandSpriteSheet_10
+  - first:
+      213: 1121180017619516151
+    second: OwnedLandSpriteSheet_11
+  - first:
+      213: -6092152713227550867
+    second: OwnedLandSpriteSheet_12
+  - first:
+      213: 7735832480087883363
+    second: OwnedLandSpriteSheet_13
+  - first:
+      213: 1405263544303436497
+    second: OwnedLandSpriteSheet_14
+  - first:
+      213: 6120566264159487988
+    second: OwnedLandSpriteSheet_15
+  - first:
+      213: 9047972793158537474
+    second: OwnedLandSpriteSheet_16
+  - first:
+      213: -8734715319917305301
+    second: OwnedLandSpriteSheet_17
+  - first:
+      213: 3488891193752249096
+    second: OwnedLandSpriteSheet_18
+  - first:
+      213: -2792390189236559232
+    second: OwnedLandSpriteSheet_19
+  - first:
+      213: 7866855619730707119
+    second: OwnedLandSpriteSheet_20
+  - first:
+      213: -3765462813514482685
+    second: OwnedLandSpriteSheet_21
+  - first:
+      213: 3729663344035070680
+    second: OwnedLandSpriteSheet_22
+  - first:
+      213: -7996205640251967357
+    second: OwnedLandSpriteSheet_23
+  - first:
+      213: 1108355896475167715
+    second: OwnedLandSpriteSheet_24
+  - first:
+      213: -1336433813435862528
+    second: OwnedLandSpriteSheet_25
+  - first:
+      213: 8754642393258878693
+    second: OwnedLandSpriteSheet_26
+  - first:
+      213: -4815925254750303450
+    second: OwnedLandSpriteSheet_27
+  - first:
+      213: 5745044634287544454
+    second: OwnedLandSpriteSheet_28
+  - first:
+      213: -8927574871389171334
+    second: OwnedLandSpriteSheet_29
+  - first:
+      213: -6949466019185947097
+    second: OwnedLandSpriteSheet_30
+  - first:
+      213: -3384607511828329295
+    second: OwnedLandSpriteSheet_31
+  - first:
+      213: 5751341048241149723
+    second: OwnedLandSpriteSheet_32
+  - first:
+      213: -8902521524674755878
+    second: OwnedLandSpriteSheet_33
+  - first:
+      213: -4345100233808775791
+    second: OwnedLandSpriteSheet_34
+  - first:
+      213: -2112686086818440505
+    second: OwnedLandSpriteSheet_35
+  - first:
+      213: -4511998524156030032
+    second: OwnedLandSpriteSheet_36
+  - first:
+      213: -5431278406604739248
+    second: OwnedLandSpriteSheet_37
+  - first:
+      213: 6487224156940095044
+    second: OwnedLandSpriteSheet_38
+  - first:
+      213: 7758641842753597220
+    second: OwnedLandSpriteSheet_39
+  - first:
+      213: -2335071190424618741
+    second: OwnedLandSpriteSheet_40
+  - first:
+      213: 8874813070272584737
+    second: OwnedLandSpriteSheet_41
+  - first:
+      213: 4507352894624741669
+    second: OwnedLandSpriteSheet_42
+  - first:
+      213: 4302352937225900844
+    second: OwnedLandSpriteSheet_43
+  - first:
+      213: -8278133615582752162
+    second: OwnedLandSpriteSheet_44
+  - first:
+      213: -3637223804082960412
+    second: OwnedLandSpriteSheet_45
+  - first:
+      213: 3643269247392882576
+    second: OwnedLandSpriteSheet_46
+  - first:
+      213: -4194421826074099456
+    second: OwnedLandSpriteSheet_47
+  - first:
+      213: 8797638135280696678
+    second: OwnedLandSpriteSheet_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fd7976cd90fc90800000000000000
+      internalID: -7138031933614853240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad01bbab23a3310800000000000000
+      internalID: 1385475612953598512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdadf9c763734000800000000000000
+      internalID: 18985713047285242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917f856f07385da0800000000000000
+      internalID: -5955949967929544300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517bca58dc2e9e720800000000000000
+      internalID: 2876079209391634197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f93778c80f2700800000000000000
+      internalID: 517642139257665726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9bac8a3677ca920800000000000000
+      internalID: 3002906321466603949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ba4ce66a324bd0800000000000000
+      internalID: -2647489417215035865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2821f949b5a301a0800000000000000
+      internalID: -6844444793444947923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544edd235f49c2f00800000000000000
+      internalID: 1093412590385488965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10650d5507c9830800000000000000
+      internalID: 4079258876360655330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa3a77294b3f8f00800000000000000
+      internalID: 1121180017619516151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb3aa8263547ba0800000000000000
+      internalID: -6092152713227550867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e319987a23b5b60800000000000000
+      internalID: 7735832480087883363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d243068fbf708310800000000000000
+      internalID: 1405263544303436497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7477fc69e90f450800000000000000
+      internalID: 6120566264159487988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011d91315bd09d70800000000000000
+      internalID: 9047972793158537474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22aa2ee1be08c680800000000000000
+      internalID: -8734715319917305301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80367974e080b6030800000000000000
+      internalID: 3488891193752249096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e448eaef6f39d0800000000000000
+      internalID: -2792390189236559232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29559718fac2d60800000000000000
+      internalID: 7866855619730707119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb68975836ebbc0800000000000000
+      internalID: -3765462813514482685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d281010d0d62c330800000000000000
+      internalID: 3729663344035070680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887ecdf555c70190800000000000000
+      internalID: -7996205640251967357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebac16c0dba16f00800000000000000
+      internalID: 1108355896475167715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b5540788047de0800000000000000
+      internalID: -1336433813435862528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e665c16fdcbe7970800000000000000
+      internalID: 8754642393258878693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b86c52f756a2db0800000000000000
+      internalID: -4815925254750303450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688197508af7abf40800000000000000
+      internalID: 5745044634287544454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71152d64f1ea1480800000000000000
+      internalID: -8927574871389171334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e06c3b9798e8f90800000000000000
+      internalID: -6949466019185947097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8a5186657701d0800000000000000
+      internalID: -3384607511828329295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b175982263ed0df40800000000000000
+      internalID: 5751341048241149723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20e7447d3e37480800000000000000
+      internalID: -8902521524674755878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957c52db5a13b3c0800000000000000
+      internalID: -4345100233808775791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad641923b3ea2e0800000000000000
+      internalID: -2112686086818440505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d7947f392261c0800000000000000
+      internalID: -4511998524156030032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d231ab01930a4b0800000000000000
+      internalID: -5431278406604739248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4fbcffff370a50800000000000000
+      internalID: 6487224156940095044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f6fc026ab3cab60800000000000000
+      internalID: 7758641842753597220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09fd71cf19289fd0800000000000000
+      internalID: -2335071190424618741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5795777ba92b70800000000000000
+      internalID: 8874813070272584737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529bf61a3955d8e30800000000000000
+      internalID: 4507352894624741669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2355b9933705bb30800000000000000
+      internalID: 4302352937225900844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5258f706592e1d80800000000000000
+      internalID: -8278133615582752162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74a05983cf58dc0800000000000000
+      internalID: -3637223804082960412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OwnedLandSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f15ffd31e7f8230800000000000000
+      internalID: 3643269247392882576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: cf0ef10119937144b8336d60d7a244c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4329935551631876764
+    second: Sand1_0
+  - first:
+      213: 7295519920705599241
+    second: Sand1_1
+  - first:
+      213: -7466710669010567263
+    second: Sand1_2
+  - first:
+      213: 389711862230284538
+    second: Sand1_3
+  - first:
+      213: 1002670204307369084
+    second: Sand1_4
+  - first:
+      213: 850746361188886264
+    second: Sand1_5
+  - first:
+      213: -5615276328886187340
+    second: Sand1_6
+  - first:
+      213: 6886720618960116642
+    second: Sand1_7
+  - first:
+      213: -2437469803461177583
+    second: Sand1_8
+  - first:
+      213: -3101644040194385050
+    second: Sand1_9
+  - first:
+      213: 7819093456711297878
+    second: Sand1_10
+  - first:
+      213: 5192725024999850355
+    second: Sand1_11
+  - first:
+      213: -6313390121482690097
+    second: Sand1_12
+  - first:
+      213: -5122161248910757182
+    second: Sand1_13
+  - first:
+      213: -5841280265411850936
+    second: Sand1_14
+  - first:
+      213: -1216524437028574945
+    second: Sand1_15
+  - first:
+      213: 8896817643263021550
+    second: Sand1_16
+  - first:
+      213: -5889572216092181685
+    second: Sand1_17
+  - first:
+      213: -552109846412821989
+    second: Sand1_18
+  - first:
+      213: 7117766793085628423
+    second: Sand1_19
+  - first:
+      213: 2019466340814130431
+    second: Sand1_20
+  - first:
+      213: 641335274707879365
+    second: Sand1_21
+  - first:
+      213: 8991174056297465467
+    second: Sand1_22
+  - first:
+      213: -5748288903124677253
+    second: Sand1_23
+  - first:
+      213: -2064188508264381443
+    second: Sand1_24
+  - first:
+      213: -8924820124829543184
+    second: Sand1_25
+  - first:
+      213: 7771028187613972664
+    second: Sand1_26
+  - first:
+      213: -5993605003695463480
+    second: Sand1_27
+  - first:
+      213: -4849538719622634725
+    second: Sand1_28
+  - first:
+      213: 5422613477458719177
+    second: Sand1_29
+  - first:
+      213: 4069974313928576818
+    second: Sand1_30
+  - first:
+      213: 5750248784414177849
+    second: Sand1_31
+  - first:
+      213: 8026552698985849717
+    second: Sand1_32
+  - first:
+      213: 5821109627761219500
+    second: Sand1_33
+  - first:
+      213: -1546411113861263961
+    second: Sand1_34
+  - first:
+      213: -3236351258944646431
+    second: Sand1_35
+  - first:
+      213: 4933028784868889865
+    second: Sand1_36
+  - first:
+      213: 6449912814548511590
+    second: Sand1_37
+  - first:
+      213: 1740661931335576667
+    second: Sand1_38
+  - first:
+      213: -2910450293696333441
+    second: Sand1_39
+  - first:
+      213: 8621212470613910404
+    second: Sand1_40
+  - first:
+      213: -3717337310404034288
+    second: Sand1_41
+  - first:
+      213: -1993072990588177339
+    second: Sand1_42
+  - first:
+      213: 340679203368236361
+    second: Sand1_43
+  - first:
+      213: -6317509320895035151
+    second: Sand1_44
+  - first:
+      213: 7316024329558016206
+    second: Sand1_45
+  - first:
+      213: -548600072152374402
+    second: Sand1_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sand1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926a577175071c30800000000000000
+      internalID: 4329935551631876764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907717de6b4ee3560800000000000000
+      internalID: 7295519920705599241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7105f43ae06890800000000000000
+      internalID: -7466710669010567263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8fdf8bfd8886500800000000000000
+      internalID: 389711862230284538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ceb9a0d333aed00800000000000000
+      internalID: 1002670204307369084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6ae9cde457ecb00800000000000000
+      internalID: 850746361188886264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba441d0ee78212b0800000000000000
+      internalID: -5615276328886187340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abd9706aeb829f50800000000000000
+      internalID: 6886720618960116642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f84f5c02e5c2ed0800000000000000
+      internalID: -2437469803461177583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b918cbd2fb4f4d0800000000000000
+      internalID: -3101644040194385050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65babd05210038c60800000000000000
+      internalID: 7819093456711297878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c563e5e3401840800000000000000
+      internalID: 5192725024999850355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1609062255268a0800000000000000
+      internalID: -6313390121482690097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c237648b7d6ae8b0800000000000000
+      internalID: -5122161248910757182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d80aa0c8a9feea0800000000000000
+      internalID: -5841280265411850936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19645e48790e1fe0800000000000000
+      internalID: -1216524437028574945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1de1a5288d77b70800000000000000
+      internalID: 8896817643263021550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb0d41649044ea0800000000000000
+      internalID: -5889572216092181685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a719715038658f0800000000000000
+      internalID: -552109846412821989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b0ffcf2367c260800000000000000
+      internalID: 7117766793085628423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8518ffe5960c10800000000000000
+      internalID: 2019466340814130431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c504eec80b76e800800000000000000
+      internalID: 641335274707879365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76815bba2117cc70800000000000000
+      internalID: 8991174056297465467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0fe6c2b9f930b0800000000000000
+      internalID: -5748288903124677253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3457ffc778a53e0800000000000000
+      internalID: -2064188508264381443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41747d16ba42480800000000000000
+      internalID: -8924820124829543184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b84746c6fc38db60800000000000000
+      internalID: 7771028187613972664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36abe210072dca0800000000000000
+      internalID: -5993605003695463480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e36c7a3af2bcb0800000000000000
+      internalID: -4849538719622634725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13c2e3a3ef04b40800000000000000
+      internalID: 5422613477458719177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f4daa23147b7830800000000000000
+      internalID: 4069974313928576818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af025adccfccf40800000000000000
+      internalID: 5750248784414177849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573210a372b046f60800000000000000
+      internalID: 8026552698985849717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca750596d5cb8c050800000000000000
+      internalID: 5821109627761219500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad4591094b0a8ae0800000000000000
+      internalID: -1546411113861263961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2573a4dab2613d0800000000000000
+      internalID: -3236351258944646431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90513e42b83a57440800000000000000
+      internalID: 4933028784868889865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b676f1881b28950800000000000000
+      internalID: 6449912814548511590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6d4bddc2182810800000000000000
+      internalID: 1740661931335576667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f797ccbc0e00c97d0800000000000000
+      internalID: -2910450293696333441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832c1c9013b4a770800000000000000
+      internalID: 8621212470613910404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011cf07596d596cc0800000000000000
+      internalID: -3717337310404034288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f090ccae2754e0800000000000000
+      internalID: -1993072990588177339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94570233ee55ab400800000000000000
+      internalID: 340679203368236361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f805d68eb2b358a0800000000000000
+      internalID: -6317509320895035151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0cb63ad5db78560800000000000000
+      internalID: 7316024329558016206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand1_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73aa97142bf268f0800000000000000
+      internalID: -548600072152374402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
