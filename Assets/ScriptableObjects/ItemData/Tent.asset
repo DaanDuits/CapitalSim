@@ -10,15 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13f8a157e9e5e8241821afcb7eb7986c, type: 3}
-  m_Name: Building1
+  m_Name: Tent
   m_EditorClassIdentifier: 
   ID: 0
-  itemName: 
+  itemName: Tent
   maxStack: 1
   placeable: 1
   tile: {fileID: 11400000, guid: 01b96dbe2877b864f9ac5938b4d10182, type: 2}
   placeAbleTerrain:
   - {fileID: 11400000, guid: 777ee94968ca8724d946d9f02d5543ab, type: 2}
+  - {fileID: 11400000, guid: 46345b364711e894c83cf50e3c815774, type: 2}
+  - {fileID: 11400000, guid: 1d080f394b1d82048a589ec1c6ded250, type: 2}
   placedOnObjects: 0
   placingTime: 15
   placingObject: {fileID: 7087531653456451981, guid: e260ed69238d67e42aedd6c6c742a72c, type: 3}

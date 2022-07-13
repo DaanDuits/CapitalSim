@@ -32,17 +32,22 @@ public class PlacingObjects : MonoBehaviour
             while (true)
             {
                 Vector3Int pos = data.foliage.WorldToCell(data.mousePos);
-                if (!data.buildings[ID].placedOnObjects && !data.foliage.HasTile(pos) && data.land.HasTile(pos))
+                for (int i = 0; i < data.buildings[ID].placeAbleTerrain.Length; i++)
                 {
-                    newObject.GetComponent<SpriteRenderer>().color = white;
-                }
-                else if (data.buildings[ID].placedOnObjects && data.foliage.HasTile(pos) && !data.land.HasTile(pos))
-                {
-                    newObject.GetComponent<SpriteRenderer>().color = white;
-                }
-                else
-                {
-                    newObject.GetComponent<SpriteRenderer>().color = red;
+                    if (!data.buildings[ID].placedOnObjects && !data.foliage.HasTile(pos) && data.land.HasTile(pos) && data.buildings[ID].placeAbleTerrain[i] == data.terrain.GetTile(pos))
+                    {
+                        newObject.GetComponent<SpriteRenderer>().color = white;
+                        break;
+                    }
+                    else if (data.buildings[ID].placedOnObjects && data.foliage.HasTile(pos) && data.land.HasTile(pos) && data.buildings[ID].placeAbleTerrain[i] == data.foliage.GetTile(pos))
+                    {
+                        newObject.GetComponent<SpriteRenderer>().color = white;
+                        break;
+                    }
+                    else
+                    {
+                        newObject.GetComponent<SpriteRenderer>().color = red;
+                    }
                 }
                 if (Input.GetMouseButton(0))
                 {
