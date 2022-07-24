@@ -32,14 +32,14 @@ public class PlacingObjects : MonoBehaviour
             while (true)
             {
                 Vector3Int pos = data.foliage.WorldToCell(data.mousePos);
-                for (int i = 0; i < data.buildings[ID].placeAbleTerrain.Length; i++)
+                for (int i = 0; i < data.buildings[ID].placeableTerrain.Length; i++)
                 {
-                    if (!data.buildings[ID].placedOnObjects && !data.foliage.HasTile(pos) && data.land.HasTile(pos) && data.buildings[ID].placeAbleTerrain[i] == data.terrain.GetTile(pos))
+                    if (!data.buildings[ID].placedOnObjects && !data.foliage.HasTile(pos) && data.land.HasTile(pos) && data.buildings[ID].placeableTerrain[i] == data.terrain.GetTile(pos))
                     {
                         newObject.GetComponent<SpriteRenderer>().color = white;
                         break;
                     }
-                    else if (data.buildings[ID].placedOnObjects && data.foliage.HasTile(pos) && data.land.HasTile(pos) && data.buildings[ID].placeAbleTerrain[i] == data.foliage.GetTile(pos))
+                    else if (data.buildings[ID].placedOnObjects && data.foliage.HasTile(pos) && data.land.HasTile(pos) && data.buildings[ID].placeableTerrain[i] == data.foliage.GetTile(pos))
                     {
                         newObject.GetComponent<SpriteRenderer>().color = white;
                         break;
@@ -54,9 +54,9 @@ public class PlacingObjects : MonoBehaviour
                     Vector3 worldPos = data.foliage.CellToWorld(pos);
                     if (!data.buildings[ID].placedOnObjects && !data.foliage.HasTile(pos) && data.land.HasTile(pos))
                     {
-                        for (int i = 0; i < data.buildings[ID].placeAbleTerrain.Length; i++)
+                        for (int i = 0; i < data.buildings[ID].placeableTerrain.Length; i++)
                         {
-                            if (data.terrain.GetTile(pos) == data.buildings[ID].placeAbleTerrain[i])
+                            if (data.terrain.GetTile(pos) == data.buildings[ID].placeableTerrain[i])
                             {
                                 data.inventoryMode = 0;
                                 Destroy(newObject);

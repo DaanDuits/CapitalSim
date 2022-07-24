@@ -7,7 +7,7 @@ using UnityEngine.Tilemaps;
 public class BuildingData : BaseItemData
 {
     public TileBase tile;
-    public TileBase[] placeAbleTerrain;
+    public TileBase[] placeableTerrain;
     public bool placedOnObjects;
 
     public float placingTime;
